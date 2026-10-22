@@ -1,5 +1,8 @@
 # lotto.py는 파이썬 표준 라이브러리(random, tkinter, datetime)만 사용합니다.
 # weather.py는 표준 라이브러리(json, os, urllib) + streamlit을 사용합니다.
+# rateCalc.py는 streamlit + requests + python-dotenv를 사용합니다.
 # Python 3.10.x
 
 streamlit
+requests
+python-dotenv
